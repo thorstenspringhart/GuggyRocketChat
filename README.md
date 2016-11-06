@@ -24,7 +24,7 @@ Add your Guggy API Key here
 This value mus be true
 
 ##### Script
-Now insert the complete code of the file `GuggyRocket.js` into this field.
+Now insert the complete code of the file `GuggyIntegration.js` into this field.
 
 #### Save changes
 Click on "SAVE CHANGES" and you're done.
