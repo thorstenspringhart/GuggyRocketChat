@@ -1,7 +1,7 @@
 # GuggyRocketChat
 
 ## Overview 
-GuggyRocketChat is a slash-command for <a href='https://rocket.chat'>Rocket.Chat</a> which sends your given phrases to <a href='http://guggy.com/'>Guggy.com</a> and shows a matching gif
+GuggyRocketChat is a slash-command for <a href='https://rocket.chat'>Rocket.Chat</a> which sends your given phrase to <a href='http://guggy.com/'>Guggy</a> and shows a GIF with your message.
 
 
 ## Installation
