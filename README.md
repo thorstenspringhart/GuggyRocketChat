@@ -18,7 +18,7 @@ Set the trigger words on which the command should be fired e.g. `/guggy`.
 In this field you must enter `http://text2gif.guggy.com/guggify`
 
 ##### Token
-Add your Guggy API Key here
+Add your Guggy API Key here. API Keys can be obtained via api@guggy.com.
 
 ##### Script Enabled
 This value mus be true
