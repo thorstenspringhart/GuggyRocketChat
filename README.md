@@ -1,7 +1,7 @@
 # GuggyRocketChat
 
 ## Overview 
-GuggyRocketChat is a slash-style-command for <a href='https://rocket.chat'>Rocket.Chat</a> which sends your given phrase to <a href='http://guggy.com/'>Guggy</a> and shows a GIF with your message.
+GuggyRocketChat is a slash-style-command for <a href='https://rocket.chat'>Rocket.Chat</a> which sends your given phrase to <a href='https://guggy.com/'>Guggy</a> and shows a GIF with your message.
 
 ## Usage
 Send a message with the content `!guggy help` and a message will come back with a gif.
@@ -17,10 +17,10 @@ On the webhook config screen, set the following values:
 Set the trigger words on which the command should be fired e.g. `!guggy`.
 
 ##### URLs
-In this field you must enter: `http://text2gif.guggy.com/guggify`
+In this field you must enter: `https://text2gif.guggy.com/guggify`
 
 ##### Avatar URL
-To get the Guggy logo on the bot, enter: `http://res.guggy.com/logo_128.png`
+To get the Guggy logo on the bot, enter: `https://res.guggy.com/logo_128.png`
 
 ##### Token
 Add your Guggy API Key here. API Keys can be obtained via: `api@guggy.com`
