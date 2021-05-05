@@ -1,3 +1,7 @@
+# Closed down
+
+Guggy.com has been shut down, so the integration does not work anymore, so the repo is now archived.
+
 # GuggyRocketChat
 
 ## Overview 
